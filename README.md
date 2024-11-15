@@ -2,25 +2,6 @@
 
 This project performs sentiment analysis on book reviews fetched from a given URL. It uses Python scripts for web scraping and sentiment analysis, and a Node.js server to handle requests and responses.
 
-## Directory Structure
-
-  BookBrowse_Sentiment_Analysis/ <br>
-    │ <br>
-    ├── Backend/ <br>
-    │      ├── Crawl_WebPage.py
-    │      ├── Get_Sentiment.py
-    │      └── requirements.txt
-    ├── public/ 
-    │     ├── html/ 
-    │     │     └── index.html
-    │     └── images/
-    |           ├── favicon.ico
-    │           └── bg.png
-    ├── server.js
-    ├── package.json
-    └── package-lock.json
-
-
 ## Installation
 
 1. **Clone the repository**:
