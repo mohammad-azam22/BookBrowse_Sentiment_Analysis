@@ -4,9 +4,9 @@ This project performs sentiment analysis on book reviews fetched from a given UR
 
 ## Directory Structure
 
-  BookBrowse_Sentiment_Analysis/ 
-    │ 
-    ├── Backend/ 
+  BookBrowse_Sentiment_Analysis/ <br>
+    │ <br>
+    ├── Backend/ <br>
     │      ├── Crawl_WebPage.py
     │      ├── Get_Sentiment.py
     │      └── requirements.txt
