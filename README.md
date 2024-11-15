@@ -46,7 +46,7 @@ This project performs sentiment analysis on book reviews fetched from a given UR
    ```
    node server.js
    ```
-2. Open your browser and navigate to http://localhost:3000/html/index.html.
+2. Open your browser and navigate to http://localhost:3000.
 3. Enter a URL in the input field and click "Analyze".
 
 ## Files
